@@ -12,3 +12,6 @@ Channel Fusion Company is the largest retail markets of any country in the world
 -What are the top-selling products in the southern region, and how can their sales be further improved?		
 
 - Dashboar Interaction <a href="https://github.com/talithapanglima/US-Regional-Sale-/blob/main/Screenshot%20(1747).png">View Dashboard</a>
+
+## Dashboard
+![Screenshot (1747)](https://github.com/user-attachments/assets/1bebc3fc-6879-4ffc-beee-b9c338f3f3d3)
