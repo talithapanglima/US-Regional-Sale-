@@ -11,11 +11,13 @@ Channel Fusion Company is the largest retail markets of any country in the world
 -What are the peak seasons or months for sales in the southern region, and how can marketing efforts be aligned to capitalize on these periods?		
 -What are the top-selling products in the southern region, and how can their sales be further improved?		
 
-- Dashboar Interaction <a href="file:///C:/Users/Talitha%20Panglima/Anaconda3/Lib/site-packages/pip/_vendor/pygments/formatters/Product%20Card.html">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/talithapanglima/US-Regional-Sale-/blob/main/Screenshot%20(1747).png">View Dashboard</a>
 
 ## Dashboard
 ![Screenshot (1747)](https://github.com/user-attachments/assets/1bebc3fc-6879-4ffc-beee-b9c338f3f3d3)
 
+## Power BI
+file:///C:/Users/Talitha%20Panglima/Anaconda3/Lib/site-packages/pip/_vendor/pygments/formatters/Product%20Card.html
 ## Recommendations from The Analysis that I did
 1. Develop targeted marketing campaigns during peak sales months and adjust inventory levels to meet the expected demand surge. This will help to maximize sales and ensure product availability during high-traffic periods.
 2. Focus on expanding operations in Texas, and Florida, as these states drive significant revenue, and Develop state-specific advertising campaigns for Texas, and Florida, to cater to local preferences and cultural nuances.
